@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: auto; /* Cuando se generan las cards, se van para abajo*/
+}
